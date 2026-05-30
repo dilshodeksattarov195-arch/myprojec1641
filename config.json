@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsfalidate",
+        "uuid": 16542921,
+        "checksum": "qu00zd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
